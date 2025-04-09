@@ -8,4 +8,8 @@ export default class Character {
     this.weapon = weapon;
     this.pouch = pouch;
   }
+
+  setGold(value){
+    this.gold = value
+  }
 }

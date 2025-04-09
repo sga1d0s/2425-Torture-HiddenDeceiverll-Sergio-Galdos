@@ -7,4 +7,5 @@ export default class Weapon {
     this.type = type;
     this.quality = quality;
   }
+
 }
