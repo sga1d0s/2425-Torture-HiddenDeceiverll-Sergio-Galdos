@@ -8,4 +8,16 @@ export default class Weapon {
     this.quality = quality;
   }
 
+  attack(enemy){
+
+    // weapon damage = ND6 + 2
+    let wDamage
+
+    for (let i = 0; i < this.numDieDamage; i++) {
+      let randomNumber = Math.floor(Math.random() * (6))
+      wDamage += randomNumber      
+    }
+    return wDamage  = wDamage +2
+  }
+
 }
