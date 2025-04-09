@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kaelen Fireheart",
+    "occupation": "priest",
+    "gold": 2600,
+    "weapon": {},
+    "pouch": [],
+    "life": 16
+  },
+  {
+    "name": "Braga the Silent",
+    "occupation": "thug",
+    "gold": 4800,
+    "weapon": {},
+    "pouch": [],
+    "life": 19
+  },
+  {
+    "name": "Willa Thornroot",
+    "occupation": "peasant",
+    "gold": 340,
+    "weapon": {},
+    "pouch": [],
+    "life": 12
+  },
+  {
+    "name": "Orlin Dustwalker",
+    "occupation": "priest",
+    "gold": 1500,
+    "weapon": {},
+    "pouch": [],
+    "life": 10
+  },
+  {
+    "name": "Rurik Ironjaw",
+    "occupation": "thug",
+    "gold": 3400,
+    "weapon": {},
+    "pouch": [],
+    "life": 18
+  }
+]

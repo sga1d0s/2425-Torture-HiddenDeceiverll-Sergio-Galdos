@@ -1,0 +1,72 @@
+[
+  {
+     "name":"Shadowfang Bow",
+     "description":"A bow crafted from the bones of ancient dragons, its arrows never miss their mark.",
+     "num_die_damage":2,
+     "type":"arcane",
+     "quality":28
+  },
+  {
+     "name":"Bladesong Sword",
+     "description":"A sword that hums with a melody of power, striking fear into foes.",
+     "num_die_damage":3,
+     "type":"common",
+     "quality":24
+  },
+  {
+     "name":"Eclipse Wand",
+     "description":"A wand imbued with the essence of a solar eclipse, casting spells of blinding light.",
+     "num_die_damage":4,
+     "type":"arcane",
+     "quality":30
+  },
+  {
+     "name":"Ironwood Longbow",
+     "description":"A longbow carved from enchanted ironwood, its arrows pierce even the toughest armor.",
+     "num_die_damage":2,
+     "type":"common",
+     "quality":23
+  },
+  {
+     "name":"Stormcleaver Sword",
+     "description":"A massive sword that crackles with the fury of a thunderstorm.",
+     "num_die_damage":5,
+     "type":"arcane",
+     "quality":29
+  },
+  {
+     "name":"Soulpiercer Wand",
+     "description":"A wand said to channel the despair of lost souls into devastating spells.",
+     "num_die_damage":3,
+     "type":"arcane",
+     "quality":25
+  },
+  {
+     "name":"Phoenix Bow",
+     "description":"A bow that shoots fiery arrows, igniting enemies with the flames of rebirth.",
+     "num_die_damage":3,
+     "type":"arcane",
+     "quality":27
+  },
+  {
+     "name":"Crystalblade Sword",
+     "description":"A sword forged from pure crystal, reflecting light in dazzling arcs.",
+     "num_die_damage":4,
+     "type":"common",
+     "quality":26
+  },
+  {
+     "name":"Frostshard Wand",
+     "description":"A wand that summons the biting cold of the Arctic to freeze enemies in their tracks.",
+     "num_die_damage":2,
+     "type":"arcane",
+     "quality":22
+  },
+  {
+     "name":"Dreadhunter Bow",
+     "description":"A bow crafted to hunt creatures of the dark, glowing faintly in their presence.",
+     "num_die_damage":3,
+     "type":"common",
+     "quality":21
+  }
+]
