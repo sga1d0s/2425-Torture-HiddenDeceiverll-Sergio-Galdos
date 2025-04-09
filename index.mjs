@@ -17,7 +17,6 @@ const arrayWeapon = []
 createPreciousStone()
 createWeapon()
 
-
 function createPreciousStone(){
 
   // itera el array
@@ -38,7 +37,7 @@ function createWeapon(){
 
     let weapon = weapons[i]
 
-    let object = new Weapon(weapon["name"], weapon["description"], weapon["num_die_damage"])
+    let object = new Weapon(weapon["name"], weapon["description"], weapon["num_die_damage"], weapon["type"], weapon["quality"])
 
     arrayWeapon.push(object)
   }
